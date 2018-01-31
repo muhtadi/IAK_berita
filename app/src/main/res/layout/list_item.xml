@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardUseCompatPadding="true"
+    app:cardElevation="@dimen/cardview_compat_inset_shadow">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sports_image"
+            android:adjustViewBounds="true"
+            tools:src="@drawable/img_basketball"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/title"
+            tools:text="Title"
+            android:padding="@dimen/default_padding"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark"
+            style="@style/Base.TextAppearance.AppCompat.Headline"
+            android:layout_alignBottom="@id/sports_image"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/news_title"
+            tools:text="NEWS"
+            android:padding="@dimen/default_padding"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            android:textColor="?android:textColorSecondary"
+            android:layout_below="@id/sports_image"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/news_description"
+            tools:text="description of the sport news"
+            android:padding="@dimen/default_padding"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            android:layout_below="@id/news_title"/>
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<android.support.v7.widget.CardView-->
+<!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:orientation="vertical">-->
+
+<!--<RelativeLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_margin="@dimen/default_padding">-->
+
+    <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/sports_image"-->
+        <!--android:adjustViewBounds="true"-->
+        <!--/>-->
+
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/title"-->
+        <!--android:text="@string/title_placeholder"-->
+        <!--android:padding="@dimen/default_padding"-->
+        <!--android:theme="@style/ThemeOverlay.AppCompat.Dark"-->
+        <!--style="@style/Base.TextAppearance.AppCompat.Headline"-->
+        <!--android:layout_alignBottom="@id/sports_image"/>-->
+
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/news_title"-->
+        <!--android:text="@string/news_placeholder"-->
+        <!--android:padding="@dimen/default_padding"-->
+        <!--style="@style/TextAppearance.AppCompat.Subhead"-->
+        <!--android:textColor="?android:textColorSecondary"-->
+        <!--android:layout_below="@id/sports_image"/>-->
+
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/news_description"-->
+        <!--android:padding="@dimen/default_padding"-->
+        <!--style="@style/TextAppearance.AppCompat.Subhead"-->
+        <!--android:layout_below="@id/news_title"/>-->
+<!--</RelativeLayout>-->
+
+<!--</android.support.v7.widget.CardView>-->

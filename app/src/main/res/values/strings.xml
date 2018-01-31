@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Berita</string>
+
+    <string-array name="sport_title">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sport_info">
+        <item>this is news of Baseball</item>
+        <item>this is news of Badminton</item>
+        <item>this is news of Basketball</item>
+        <item>this is news of Bowling</item>
+        <item>this is news of Cycling</item>
+        <item>this is news of Golf</item>
+        <item>this is news of Running</item>
+        <item>this is news of Soccer</item>
+        <item>this is news of Swimming</item>
+        <item>this is news of Table Tennis</item>
+        <item>this is news of Tennis</item>
+    </string-array>
+
+    <array name="sport_image">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    <string-array name="sport_desc">
+        <item>Baseball <b>Baseball Baseball </b>Baseball <i>Baseball </i>Baseball Baseball <br/>Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball Baseball </item>
+        <item>Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton Badminton </item>
+        <item>Basketball <b>Basketball </b>Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball Basketball </item>
+        <item>Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling Bowling </item>
+        <item>Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling Cycling </item>
+        <item>Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf Golf </item>
+        <item>Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running Running </item>
+        <item>Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer Soccer </item>
+        <item>Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming Swimming </item>
+        <item>Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis Table Tennis </item>
+        <item>Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis Tennis </item>
+
+
+    </string-array>
+
+
+</resources>
+
+<!--
+
+<resources>
+<string name="app_name">MaterialMe</string>
+<string name="title_placeholder">Title</string>
+<string name="news_placeholder">News</string>
+<string name="sport_info_placeholder">Here is one news</string>
+
+<string-array name="sport_title">
+    <item>Baseball</item>
+    <item>Badminton</item>
+    <item>Basketball</item>
+    <item>Bowling</item>
+    <item>Cycling</item>
+    <item>Golf</item>
+    <item>Running</item>
+    <item>Soccer</item>
+    <item>Swimming</item>
+    <item>Table Tennis</item>
+    <item>Tennis</item>
+</string-array>
+
+<string-array name="sport_info">
+    <item>Here is some Baseball news!</item>
+    <item>Here is some Badminton news!</item>
+    <item>Here is some Basketball news!</item>
+    <item>Here is some Bowling news!</item>
+    <item>Here is some Cycling news!</item>
+    <item>Here is some Golf news!</item>
+    <item>Here is some Running news!</item>
+    <item>Here is some Soccer news!</item>
+    <item>Here is some Swimming news!</item>
+    <item>Here is some Table Tennis news!</item>
+    <item>Here is some Tennis news!</item>
+</string-array>
+
+<array name="sports_images">
+    <item>@drawable/img_baseball</item>
+    <item>@drawable/img_badminton</item>
+    <item>@drawable/img_basketball</item>
+    <item>@drawable/img_bowling</item>
+    <item>@drawable/img_cycling</item>
+    <item>@drawable/img_golf</item>
+    <item>@drawable/img_running</item>
+    <item>@drawable/img_soccer</item>
+    <item>@drawable/img_swimming</item>
+    <item>@drawable/img_tabletennis</item>
+    <item>@drawable/img_tennis</item>
+</array>
+
+<string-array name="sport_description">
+    <item>Here is some Baseball news! Here is some Baseball news! Here is some Baseball news! Here is some Baseball news! Here is some Baseball news! Here is some Baseball news!</item>
+    <item>Here is some Badminton news! Here is some Badminton news! Here is some Badminton news! Here is some Badminton news! Here is some Badminton news! Here is some Badminton news!</item>
+    <item>Here is some Basketball news! Here is some Badminton news! Here is some Badminton news! Here is some Badminton news! Here is some Badminton news! Here is some Badminton news!</item>
+    <item>Here is some Bowling news! Here is some Bowling news! Here is some Bowling news! Here is some Bowling news! Here is some Bowling news! Here is some Bowling news!</item>
+    <item>Here is some Cycling news! Here is some Cycling news! Here is some Cycling news! Here is some Cycling news! Here is some Cycling news! Here is some Cycling news!</item>
+    <item>Here is some Golf news! Here is some Golf news! Here is some Golf news! Here is some Golf news! Here is some Golf news! Here is some Golf news!</item>
+    <item>Here is some Running news! Here is some Running news! Here is some Running news! Here is some Running news! Here is some Running news! Here is some Running news!</item>
+    <item>Here is some Soccer news! Here is some Soccer news! Here is some Soccer news! Here is some Soccer news! Here is some Soccer news! Here is some Soccer news!</item>
+    <item>Here is some Swimming news! Here is some Swimming news! Here is some Swimming news! Here is some Swimming news! Here is some Swimming news! Here is some Swimming news!</item>
+    <item>Here is some Table Tennis news! Here is some Table Tennis news! Here is some Table Tennis news! Here is some Table Tennis news! Here is some Table Tennis news! Here is some Table Tennis news!</item>
+    <item>Here is some Tennis news! Here is some Tennis news! Here is some Tennis news! Here is some Tennis news! Here is some Tennis news! Here is some Tennis news!</item>
+</string-array>
+</resources>
+-->
